@@ -1,7 +1,7 @@
 <?php
 
 
-	echo $this->Html->script('donations/donut_type_donation');
+	echo $this->Html->script('visualizations/donations/donut_type_donation');
 
 ?>
 

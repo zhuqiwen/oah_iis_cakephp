@@ -1,7 +1,7 @@
 <?php
 
 
-	echo $this->Html->script('donations/bar_yearly_donation');
+	echo $this->Html->script('visualizations/donations/bar_yearly_donation');
 
 ?>
 
